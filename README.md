@@ -75,7 +75,7 @@ cordova.plugins.inappupdate.update("flexible",function(){},function(){});
 
 <h4>Screenshot</h4>
 <p  align="center">
-  <img src="https://2.bp.blogspot.com/-bVFKMZ7BI4k/XQOneu2S-WI/AAAAAAAAPfg/-_10MOdAeSsF0hs9Hts1d4oL7lcHWlR9QCLcBGAs/s1600/1.png" width="350">
+  <img src="https://4.bp.blogspot.com/-FvX5pBM-4kI/XZoL12L_jzI/AAAAAAAAP7M/is_sR5nHqaIyg4NeN2omg2aW-GBF4Nq1gCLcBGAsYHQ/s1600/2.png" width="350">
 </p>
 
 
@@ -93,7 +93,7 @@ cordova.plugins.inappupdate.update("immediate",function(){},function(){});
 
 <h4>Screenshot</h4>
 <p  align="center">
-  <img src="https://2.bp.blogspot.com/-bVFKMZ7BI4k/XQOneu2S-WI/AAAAAAAAPfg/-_10MOdAeSsF0hs9Hts1d4oL7lcHWlR9QCLcBGAs/s1600/1.png" width="350">
+  <img src="https://2.bp.blogspot.com/-zwT-thsMsZM/XZoL1PpZbpI/AAAAAAAAP7I/00SG2mrnzQU6wcjHCf17j94hgSakI0RGgCLcBGAsYHQ/s1600/1.png" width="350">
 </p>
 
 
