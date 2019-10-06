@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-plugin-codeplay-in-app-update" version="0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+  <name>inappupdate</name>
+  <js-module name="inappupdate" src="www/inappupdate.js">
+    <clobbers target="cordova.plugins.inappupdate" />
+  </js-module>
+  <platform name="android">
+    <config-file parent="/*" target="res/xml/config.xml">
+      <feature name="inappupdate">
+        <param name="android-package" value="cordova.plugin.codeplay.in.app.update.inappupdate" />
+      </feature>
+    </config-file>
+    <config-file parent="/*" target="AndroidManifest.xml"></config-file>
+    <source-file src="src/android/inappupdate.java" target-dir="src/cordova/plugin/codeplay/in/app/update/inappupdate" />
+	
+	
+	  <framework custom="true" src="src/android/android-play-core.gradle" type="gradleReference" />
+	
+  </platform>
+</plugin>
